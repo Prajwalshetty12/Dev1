@@ -1,8 +1,8 @@
-code 1st line
-code 2nd line
-code 3rd line
-code 4th line
+html code 1st line
+html code 2nd line
+html code 3rd line
+html code 4th line
 .
 .
 .
-code nth line
+html code nth line
